@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/developerdhanu/PlacementCell.git"
+    "url": "git+https://github.com/Dhananjay892000/Placement-cell-D.git"
   },
   "author": "Dhananjay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/developerdhanu/PlacementCell/issues"
+    "url": "hhttps://github.com/Dhananjay892000/Placement-cell-D/issues"
   },
-  "homepage": "https://github.com/developerdhanu/PlacementCell#readme",
+  "homepage": "https://github.com/Dhananjay892000/Placement-cell-D#readme",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "connect-mongo": "^4.6.0",
